@@ -8,9 +8,9 @@ Você precisa de uma hospedagem, ou um servidor apache rodando com PHP7.2 e tamb
 Primeiro passo:
 - Fazer o upload de todos os arquivos para um servidor com suporte a PHP e Mysql.
 - Criar um banco de dados e anotar os dados como:
---nome do banco de dados
--- nome de usuario do banco de dados
---senha do banco de dados.
+-nome do banco de dados
+-nome de usuario do banco de dados
+-senha do banco de dados.
 
 Segundo passo:
 Após criar um Banco de dados em branco e upar nossos arquivos para o servidor vamos:
@@ -25,8 +25,10 @@ $charset_db  = 'UTF8';
 $conexao_pdo = null;
 
 OBS: nao mudar mais nada e manter as aspas!
+
 3 - Para criar um usuário  acesse o caminho:
 https://seusite.com/pannel/cadastro.php
+
 4 - Para deletar um usuário acesse seu banco de dados
 pelo phpmyadmin e delete o usuario manualmente.
 
