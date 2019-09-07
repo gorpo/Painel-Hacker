@@ -55,17 +55,7 @@ Quantos dígitos em um número de cartão de crédito?
 
 Quantidade de numeros por cartão::
 
-    Visa and Visa Electron: between 13 and 16
-    Mastercard: 16
-    Discover: 16
-    American Express: 15
-    Diner's Club: 14 (including enRoute, International, Blanche)
-    Maestro: Between 12 and 19 (multi-national Debit Card)
-    Laser: Between 16 and 19 (Ireland Debit Card)
-    Switch: 16, 18 and 19 (United Kingdom Debit Card)
-    Solo: 16, 18 and 19 (United Kingdom Debit Card)
-    JCB: 15 and 16 (Japan Credit Bureau)
-    China UnionPay: 16 (People's Republic of China)
+    Ocultado pelo dev
 
 Oque contem neste site?
 
@@ -73,32 +63,26 @@ Lista de ferramentas:
 
 Checkers
 
-    CC Checker
-    Credit Card Bin Checker
+    Ocultado pelo dev
+    Ocultado pelo dev
     Spotify Account Checker
     TC Number Checker
 
 Generadores
 
-    Credit Card Generator
+    Ocultado pelo dev
     Password Generator
     Sitemap Generator
-    TC Number Generator
-    TC Tax Number Generator
+    Ocultado pelo dev
+    Ocultado pelo dev
     SIN Number Generator
     SSN Number Generator
-    UK NINO Number Generator
+    Ocultado pelo dev
     QR Code Generator
 
 Validadores
 
-    Credit Card Validator
-    ABA & Routing Number Validator
-    TC Number Validator
-    TC Tax Number Validator
-    SIN Number Validator
-    SSN Number Validator
-    UK NINO Number Validator
+    Ocultado pelo dev
 
 Social
 
