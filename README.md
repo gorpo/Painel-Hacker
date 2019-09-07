@@ -51,11 +51,7 @@ Nossos cartões gerados sempre tem um acerto de 75%, aconselhamos sempre uma boa
 Todo material gerado pode ser usado nos testadores deste mesmo site, aproveite e em caso de erros entre em contato com quem adquiriu seu painel.
 Credit Card Validador
 Também temos um verificador de cartão de crédito válido, no qual você pode verificar on-line o número do cartão de crédito, basta inserir o cartão de crédito, validar os valores do cartão de crédito gerado e verificar o principal identificador do setor e o Número da conta pessoal do PAN. Tudo o que você precisa fazer é inserir o número do cartão de crédito no campo em que ele solicita e clicar no botão verde para verificar.
-Quantos dígitos em um número de cartão de crédito?
 
-Quantidade de numeros por cartão::
-
-    Ocultado pelo dev
 
 Oque contem neste site?
 
@@ -67,6 +63,11 @@ Checkers
     Ocultado pelo dev
     Spotify Account Checker
     TC Number Checker
+    Checkers
+Phishing
+    Ocultado pelo dev
+    Ocultado pelo dev
+    
 
 Generadores
 
