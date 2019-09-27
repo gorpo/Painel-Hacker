@@ -38,21 +38,6 @@ AVISO: O painel começa totalmente sem usuário e senha pois depende do banco de
 Procuro codders para melhorar este script.
 
 
-Olá Hacker, bem vindo!
-Aqui estão ferramentas especiais para seu uso. Todas as ferramentas úteis Hacker para carders podem ser encontradas aqui. Nossas ferramentas são especialmente codificadas para você. Desejamos-lhe bons usos.
-CC Checker or Credit Card Checker
-Com este serviço, você pode verificar se os cartões de crédito estão vivos ou mortos.
-Nosso serviço é o mais completo e versátil do mercado.
-Contamos com as mais variadas ferramentas hackers em nosso painel.
-Temos Geradores, testadores, e muitas ferramentas que você somente encontra aqui.
-Constantemente estamos atualizando e aumentando nossos scripts para melhor interação do usuário!
-Credit Card Gerador
-Nossos cartões gerados sempre tem um acerto de 75%, aconselhamos sempre uma boa bin e que o usuário seja paciente em sua coleta
-Todo material gerado pode ser usado nos testadores deste mesmo site, aproveite e em caso de erros entre em contato com quem adquiriu seu painel.
-Credit Card Validador
-Também temos um verificador de cartão de crédito válido, no qual você pode verificar on-line o número do cartão de crédito, basta inserir o cartão de crédito, validar os valores do cartão de crédito gerado e verificar o principal identificador do setor e o Número da conta pessoal do PAN. Tudo o que você precisa fazer é inserir o número do cartão de crédito no campo em que ele solicita e clicar no botão verde para verificar.
-
-
 Oque contem neste site?
 
 Lista de ferramentas:
